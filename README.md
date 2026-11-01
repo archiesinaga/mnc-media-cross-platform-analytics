@@ -59,6 +59,7 @@ mnc-media-cross-platform-analytics/
 │   └── sample/                   # small samples of the clean tables
 └── docs/
     ├── checks.xlsx               # reconciliation + label validation samples
+    ├── validation/               # label validation samples (CSV)
     └── figures/                  # EDA figures
 ```
 

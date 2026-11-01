@@ -1,0 +1,5 @@
+google-api-python-client
+google-play-scraper
+pandas
+numpy
+matplotlib
