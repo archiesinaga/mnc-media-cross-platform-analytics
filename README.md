@@ -4,7 +4,7 @@ End-to-end analytics project on two public data sources: the YouTube performance
 
 > Independent portfolio project using public data. Not affiliated with MNC Media.
 
-**Dashboard:** [Looker Studio](LOOKER_STUDIO_LINK) · **Video walkthrough:** [Loom](LOOM_LINK) · **Slides:** [PDF](docs/slides.pdf)
+**Dashboard:** [Looker Studio](https://datastudio.google.com/reporting/2eb8f5a8-02de-43b1-8d1a-ad65ceffbcd4) · **Video walkthrough:** [Loom](LOOM_LINK) · **Slides:** [PDF](docs/slides.pdf)
 
 ---
 
