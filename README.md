@@ -4,14 +4,24 @@ End-to-end analytics project on two public data sources: the YouTube performance
 
 > Independent portfolio project using public data. Not affiliated with MNC Media.
 
-**Dashboard:** [Looker Studio](https://datastudio.google.com/reporting/2eb8f5a8-02de-43b1-8d1a-ad65ceffbcd4) · **Video walkthrough:** [Loom](LOOM_LINK) · **Slides:** [PDF](docs/slides.pdf)
-
----
+**Dashboard:** [Looker Studio](https://datastudio.google.com/reporting/2eb8f5a8-02de-43b1-8d1a-ad65ceffbcd4) · **Slides:** [PDF](docs/slides.pdf)
 
 ## Questions
 
 1. **YouTube:** How effective are MNC's YouTube channels (RCTI, MNCTV, GTV, iNews) compared with SCTV, Indosiar, Trans7 and Trans TV?
 2. **Apps:** What do users complain about most in RCTI+ and Vision+, compared with Vidio?
+
+## Key findings
+
+- **Volume without reach:** MNC posted 62.2% of the 8 channels' videos but earned only 25.5% of their views.
+- **Vision+ access problem:** "paid but can't watch" drives 45.2% of Vision+ negative reviews, rising to 55% when the review mentions sports.
+- **What works:** live re-uploads (median 53 views/day vs 8.7 for full videos) and weekend uploads (Sunday index 1.36).
+
+![Share of videos vs share of views](docs/figures/01_share_videos_views.png)
+
+Full results for all 9 hypotheses are in [Findings](#findings).
+
+---
 
 ## Data
 
